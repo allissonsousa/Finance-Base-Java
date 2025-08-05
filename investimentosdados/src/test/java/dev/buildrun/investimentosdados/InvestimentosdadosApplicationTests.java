@@ -1,10 +1,10 @@
-package negociosbase.devrun.negocio;
+package dev.buildrun.investimentosdados;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NegocioApplicationTests {
+class InvestimentosdadosApplicationTests {
 
 	@Test
 	void contextLoads() {
